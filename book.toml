@@ -5,3 +5,9 @@ multilingual = false
 src = "src"
 title = "LLUG 活动组织手册"
 description = "LLUG 活动组织手册是 Linux 中国的活动组织 SOP，希望可以帮助更多的人组织一场好的线下活动。"
+
+[output.html]
+mathjax-support = true
+site-url = "/LLUG-Guides/"
+git-repository-url = "https://github.com/Linux-CN/LLUG-Guides/tree/main"
+edit-url-template = "https://github.com/Linux-CN/LLUG-Guides/tree/main/{path}"
